@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Cinzel', serif;
+    background-image: url("https://wallpapercave.com/wp/pEeUsp1.jpg")
+}
+
+nav{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 5rem;
+}
+nav h2{
+    color: white;
+}
+
+button {
+    padding: 1rem 2rem;
+    border: none;
+    margin: 1rem 0rem;
+    padding: 1rem 2rem;
+    cursor: pointer;
+    font-size: large;
+    background-color: #106ae0;
+    color: white;
+    font-family: 'Kalam', cursive;
+}
+
+footer{
+    
+    max-width: 600px;
+    margin: auto;
+    color: white;
+}
+
+.main{
+   max-width: 600px;
+   margin: auto;
+
+}
+.about{
+    margin-top: 3rem;
+}
+.about div{
+    text-align: center;
+}

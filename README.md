@@ -1,2 +1,4 @@
 # yoda-translate-app
-App with translate english language to yodish language 
+Learn yodish with this translation app which converts your english langauage to yoda langauage
+
+[Hosted Link](https://yoda-translate-app.netlify.app)
